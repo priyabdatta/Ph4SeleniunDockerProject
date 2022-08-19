@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-19T11:16:39 GMT-06:00" name="Default suite" finished-at="2022-08-19T11:17:36 GMT-06:00" duration-ms="57141">
+    <groups>
+    </groups>
+    <test started-at="2022-08-19T11:16:39 GMT-06:00" name="Default test" finished-at="2022-08-19T11:17:36 GMT-06:00" duration-ms="57141">
+      <class name="com.simplilearn.Ph4SeleniumDocker.FlipKartApp">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.simplilearn.Ph4SeleniumDocker.FlipKartApp@f0da945]" started-at="2022-08-19T11:16:39 GMT-06:00" name="setUp" finished-at="2022-08-19T11:16:57 GMT-06:00" duration-ms="17770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFlipkart()[pri:0, instance:com.simplilearn.Ph4SeleniumDocker.FlipKartApp@f0da945]" started-at="2022-08-19T11:16:57 GMT-06:00" name="testFlipkart" finished-at="2022-08-19T11:17:36 GMT-06:00" duration-ms="39308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFlipkart -->
+      </class> <!-- com.simplilearn.Ph4SeleniumDocker.FlipKartApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
